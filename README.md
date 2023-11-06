@@ -13,7 +13,7 @@ Programa exclusivo. <br/>
 </p>
 
 <p align="center">
-  <img alt="Projeto Instagram" src="./assets/Projeto Instagram.PNG">
+  <img alt="" src="">
 </p>
 
 <br>
@@ -36,7 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](file:///C:/Users/Melo/Desktop/projeto/index.html)
-
 
 ## :memo: Licença
 
